@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StatusSaver</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+    <string name="preview">Preview</string>
+</resources>
